@@ -1,0 +1,5 @@
+{
+    "opt_type":"init",
+    "port_num":"1",
+    "baud_rate":"115200",
+};
